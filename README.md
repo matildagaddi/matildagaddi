@@ -1,4 +1,4 @@
-## Matilda Gaddi
+Hello! I'm an undergrad studying Data Science at UC San Diego
 
 <!--
 **matildagaddi/matildagaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
