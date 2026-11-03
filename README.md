@@ -1,4 +1,5 @@
-Hello! I'm an undergrad studying Data Science at UC San Diego
+Hello! I'm a masters student studying CS at Stanford.
+I did my undergrad in Data Science and Sociology at UC San Diego.
 
 <!--
 **matildagaddi/matildagaddi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
